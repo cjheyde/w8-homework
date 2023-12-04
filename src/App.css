@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+.WHITE {
+  background-color: black;
+  color: blueviolet;
+  height: 290px;
+}
+
+.BLACK {
+  background-color: antiquewhite;
+  color: antiquewhite; 
+  height: 280px;
+}
