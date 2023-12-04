@@ -1,10 +1,9 @@
 import './App.css';
-import ColorButton from './ColorButton';
 
 function App() {
   return (
     <div className="App">
-      <ColorButton />
+      <hi1>Add your code here!</hi1>
     </div>
   );
 }
