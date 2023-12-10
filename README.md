@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Week 8 Homework
 
 ### Deliverable: 
 Create an application that changes the button name and the background color using a Pure Component and  a Higher-Order Components (HOCs) to handle state and color functionality. 
